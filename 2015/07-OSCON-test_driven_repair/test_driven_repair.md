@@ -18,9 +18,7 @@ I'm Australian, I'll speak Australian. Sorry.
 
 
 ## Home
-<div class="stretch">
 ![Hobart](images/spectra.jpg)
-</div>
 
 ##### Notes
 I'm from Hobart.
@@ -31,9 +29,7 @@ It's also very cold there at the moment, so I'm rather glad to be here instead.
 
 
 ## What I knew about testing when I wrote the abstract?
-<div class="stretch">
 ![I Have No Idea What I'm Doing](images/science-dog.jpg)
-</div>
 
 ##### Notes
 I wrote the abstract after spending two weeks fixing a 3000-line piece of enterprise Java code at work. It was barely tested.
