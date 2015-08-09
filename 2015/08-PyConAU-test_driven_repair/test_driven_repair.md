@@ -4,6 +4,9 @@
 Christopher Neugebauer <br />
 mail<b>@chrisjrn</b>.com
 
+[Video](https://www.youtube.com/watch?v=1i5leCslA4g)
+
+
 ##### Notes
 This is a talk about what happens when you forget to write tests, and you suddenly discover that you actually need tests.
 

@@ -2,7 +2,7 @@
 Christopher Neugebauer <br />
 mail<b>@chrisjrn</b>.com
 
-
+[Video](https://www.youtube.com/watch?v=_PPQLeimyOM)
 
 # History
 ## How did we get here?
